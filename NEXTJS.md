@@ -170,6 +170,8 @@ Now when we click on Sign up, we want to send the data to the server to create t
 
 ```tsx
 import { useState } from 'react';
+import Input from '../components/Input';
+import Button from '../components/Button';
 
 export default function Signup() {
   const [email, setEmail] = useState('');
