@@ -1,4 +1,4 @@
-# Sebis Coding Bootcamp
+# Coding Bootcamp
 
 ## Table of contents
 
